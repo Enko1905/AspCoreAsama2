@@ -1,4 +1,5 @@
 ﻿using Demo.Domain.Entites;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -9,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Demo.Persistence.Context
 {
-    public class AppDbContext:DbContext
+    public class AppDbContext : IdentityDbContext<User, Role, Guid>
     {
         public AppDbContext()
         {
@@ -23,8 +24,10 @@ namespace Demo.Persistence.Context
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
-           
-            modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
+
+          
+
+            //modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
         }
     }
 }

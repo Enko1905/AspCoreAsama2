@@ -23,6 +23,7 @@ namespace Demo.Application.Features.Products.Queries.GetAllProducts
         {
             var products = await unitOfWork.GetReadRepository<Product>().GetAllAsync(x=>x.IsDeleted==false);
 
+            //AutoMapper Kullanmadım List olarak eklendi
             List<GetAllProductsQueryResponse> response = new();
             foreach (var product in products)
             {
@@ -34,8 +35,6 @@ namespace Demo.Application.Features.Products.Queries.GetAllProducts
                     Price = product.Price - (product.Price * (product.Discount / 100)),
                 });
             }
-
-            
             return response;
 
         }

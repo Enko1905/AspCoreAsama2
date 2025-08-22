@@ -1,6 +1,7 @@
 C:\Users\enkoc\OneDrive\Masaüstü\Proje2\HepsiDemo\Core\Demo.Domain\bin\Debug\net7.0\Demo.Domain.deps.json
 C:\Users\enkoc\OneDrive\Masaüstü\Proje2\HepsiDemo\Core\Demo.Domain\bin\Debug\net7.0\Demo.Domain.dll
 C:\Users\enkoc\OneDrive\Masaüstü\Proje2\HepsiDemo\Core\Demo.Domain\bin\Debug\net7.0\Demo.Domain.pdb
+C:\Users\enkoc\OneDrive\Masaüstü\Proje2\HepsiDemo\Core\Demo.Domain\obj\Debug\net7.0\Demo.Domain.csproj.AssemblyReference.cache
 C:\Users\enkoc\OneDrive\Masaüstü\Proje2\HepsiDemo\Core\Demo.Domain\obj\Debug\net7.0\Demo.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\enkoc\OneDrive\Masaüstü\Proje2\HepsiDemo\Core\Demo.Domain\obj\Debug\net7.0\Demo.Domain.AssemblyInfoInputs.cache
 C:\Users\enkoc\OneDrive\Masaüstü\Proje2\HepsiDemo\Core\Demo.Domain\obj\Debug\net7.0\Demo.Domain.AssemblyInfo.cs

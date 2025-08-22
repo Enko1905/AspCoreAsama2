@@ -37,7 +37,7 @@ namespace Demo.Persistence.Configurations
 
             Product product3 = new()
             {
-                Id = 4,
+                Id = 3,
                 Title = "Akıllı Saat",
                 Description = "Kalp ritmi ölçer, uyku takibi ve GPS destekli akıllı saat.",
                 Discount = 15, 

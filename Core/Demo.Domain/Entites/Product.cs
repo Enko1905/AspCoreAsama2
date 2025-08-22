@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Demo.Domain.Entites
 {
-    public class Product :EntityBase
+    public class Product : EntityBase
     {
         public Product()
         {
@@ -22,10 +22,10 @@ namespace Demo.Domain.Entites
             Discount = discount;
         }
 
-        public string Title { get; set; }
-        public string Description { get; set; }
+        public string Title { get; set; } = string.Empty;
+        public string Description { get; set; } = string.Empty;
         public decimal Price { get; set; }
         public decimal Discount { get; set; }
-        
+
     }
 }
