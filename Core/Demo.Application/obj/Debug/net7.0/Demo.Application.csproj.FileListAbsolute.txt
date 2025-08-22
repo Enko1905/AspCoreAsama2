@@ -1,0 +1,16 @@
+C:\Users\enkoc\OneDrive\Masaüstü\Proje2\HepsiDemo\Core\Demo.Application\bin\Debug\net7.0\Demo.Application.deps.json
+C:\Users\enkoc\OneDrive\Masaüstü\Proje2\HepsiDemo\Core\Demo.Application\bin\Debug\net7.0\Demo.Application.dll
+C:\Users\enkoc\OneDrive\Masaüstü\Proje2\HepsiDemo\Core\Demo.Application\bin\Debug\net7.0\Demo.Application.pdb
+C:\Users\enkoc\OneDrive\Masaüstü\Proje2\HepsiDemo\Core\Demo.Application\bin\Debug\net7.0\Demo.Domain.dll
+C:\Users\enkoc\OneDrive\Masaüstü\Proje2\HepsiDemo\Core\Demo.Application\bin\Debug\net7.0\Demo.Domain.pdb
+C:\Users\enkoc\OneDrive\Masaüstü\Proje2\HepsiDemo\Core\Demo.Application\obj\Debug\net7.0\Demo.Application.csproj.AssemblyReference.cache
+C:\Users\enkoc\OneDrive\Masaüstü\Proje2\HepsiDemo\Core\Demo.Application\obj\Debug\net7.0\Demo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enkoc\OneDrive\Masaüstü\Proje2\HepsiDemo\Core\Demo.Application\obj\Debug\net7.0\Demo.Application.AssemblyInfoInputs.cache
+C:\Users\enkoc\OneDrive\Masaüstü\Proje2\HepsiDemo\Core\Demo.Application\obj\Debug\net7.0\Demo.Application.AssemblyInfo.cs
+C:\Users\enkoc\OneDrive\Masaüstü\Proje2\HepsiDemo\Core\Demo.Application\obj\Debug\net7.0\Demo.Application.csproj.CoreCompileInputs.cache
+C:\Users\enkoc\OneDrive\Masaüstü\Proje2\HepsiDemo\Core\Demo.Application\obj\Debug\net7.0\Demo.Application.sourcelink.json
+C:\Users\enkoc\OneDrive\Masaüstü\Proje2\HepsiDemo\Core\Demo.Application\obj\Debug\net7.0\Demo.App.371CD7EF.Up2Date
+C:\Users\enkoc\OneDrive\Masaüstü\Proje2\HepsiDemo\Core\Demo.Application\obj\Debug\net7.0\Demo.Application.dll
+C:\Users\enkoc\OneDrive\Masaüstü\Proje2\HepsiDemo\Core\Demo.Application\obj\Debug\net7.0\refint\Demo.Application.dll
+C:\Users\enkoc\OneDrive\Masaüstü\Proje2\HepsiDemo\Core\Demo.Application\obj\Debug\net7.0\Demo.Application.pdb
+C:\Users\enkoc\OneDrive\Masaüstü\Proje2\HepsiDemo\Core\Demo.Application\obj\Debug\net7.0\ref\Demo.Application.dll
