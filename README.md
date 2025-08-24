@@ -1,28 +1,28 @@
 Asp.NetCore versiyon 7.0
-
+<br/>
 Onion Architecture(Core–Infrastructure –Presentation )
-
-Basit Redis Eklendi.
+<br/>
+Redis Eklendi.<br/>
 Not : AutoMapper sonradan Ekledim
+<br/>
+Exception handling (global veya try-catch ile)<br/>
+Global Hata Yönetimi eklendi<br/>
 
-Exception handling (global veya try-catch ile)
-Global Hata Yönetimi eklendi
 
-
-PostgreSql Veri Tabanı Kullanıldı
+PostgreSql Veri Tabanı Kullanıldı<br/>
 veritabanı Bağlantı Demo.Api/appsettings.Development.json Dosyası içerisinde DefaultConnection
-
-dotnet EF Core ile
-
-Migration Oluşturulması : 
-
+<br/>
+dotnet EF Core ile<br/>
+<br/>
+Migration Oluşturulması : <br/>
+<br/>
 dotnet ef migrations add initNew --project ./Infrastructure/Demo.Persistence --startup-project ./Presentation/Demo.Api
-
-Veri Tabanının Yüklenmesi : 
+<br/>
+Veri Tabanının Yüklenmesi : <br/>
 dotnet ef database update --project ./Infrastructure/Demo.Persistence --startup-project ./Presentation/Demo.Api
-
-
-dotnet build
-dotnet run --project ./Presentation/Demo.Api
-
-localhost/swagger
+<br/>
+<br/>
+dotnet build<br/>
+dotnet run --project ./Presentation/Demo.Api<br/>
+<br/>
+localhost/swagger<br/>
