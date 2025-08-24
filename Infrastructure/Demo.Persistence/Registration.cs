@@ -1,5 +1,5 @@
 ﻿using Demo.Application.Interfaces.Repositories;
-using Demo.Application.UnitOfWorks;
+using Demo.Application.Interfaces.UnitOfWorks;
 using Demo.Domain.Entites;
 using Demo.Persistence.Context;
 using Demo.Persistence.Repositories;

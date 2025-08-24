@@ -4,8 +4,9 @@ using Demo.Application.Features.Products.Command.CreateProduct;
 using Demo.Application.Features.Products.Command.DeleteProduct;
 using Demo.Application.Features.Products.Command.UpdateProduct;
 using Demo.Application.Features.Products.Queries.GetAllProducts;
+using Microsoft.AspNetCore.Authorization;
 
-namespace YoutubeApi.Api.Controllers
+namespace Demo.Api.Controllers
 {
     [Route("api/[controller]/[action]")]
     public class ProductController : ControllerBase
@@ -16,6 +17,8 @@ namespace YoutubeApi.Api.Controllers
         {
             this.mediator = mediator;
         }
+
+        //[Authorize]
         [HttpGet]
         public async Task<IActionResult> GetAllProducts()
         {
@@ -43,7 +46,7 @@ namespace YoutubeApi.Api.Controllers
             return Ok();
         }
 
-
+     
 
     }
 }

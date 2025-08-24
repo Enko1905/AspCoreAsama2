@@ -1,4 +1,4 @@
-﻿using Demo.Application.UnitOfWorks;
+﻿using Demo.Application.Interfaces.UnitOfWorks;
 using Demo.Domain.Entites;
 using MediatR;
 using System;
