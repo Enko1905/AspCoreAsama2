@@ -94,7 +94,6 @@ C:\Users\enkoc\OneDrive\Masaüstü\Proje2\HepsiDemo\Presentation\Demo.Api\obj\De
 C:\Users\enkoc\OneDrive\Masaüstü\Proje2\HepsiDemo\Presentation\Demo.Api\obj\Debug\net7.0\Demo.Api.pdb
 C:\Users\enkoc\OneDrive\Masaüstü\Proje2\HepsiDemo\Presentation\Demo.Api\obj\Debug\net7.0\Demo.Api.genruntimeconfig.cache
 C:\Users\enkoc\OneDrive\Masaüstü\Proje2\HepsiDemo\Presentation\Demo.Api\obj\Debug\net7.0\ref\Demo.Api.dll
-C:\Users\enkoc\OneDrive\Masaüstü\Proje2\HepsiDemo\Presentation\Demo.Api\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
 C:\Users\enkoc\OneDrive\Masaüstü\Proje2\HepsiDemo\Presentation\Demo.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\enkoc\OneDrive\Masaüstü\Proje2\HepsiDemo\Presentation\Demo.Api\bin\Debug\net7.0\Demo.Infrastructure.dll
 C:\Users\enkoc\OneDrive\Masaüstü\Proje2\HepsiDemo\Presentation\Demo.Api\bin\Debug\net7.0\Demo.Infrastructure.pdb

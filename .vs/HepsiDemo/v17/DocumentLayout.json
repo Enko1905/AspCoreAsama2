@@ -1,12 +1,70 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\enkoc\\OneDrive\\Masa\u00FCst\u00FC\\Proje2\\HepsiDemo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09F1D1E4-61A9-477F-9C79-7DA3AA22E492}|Infrastructure\\Demo.Persistence\\Demo.Persistence.csproj|c:\\users\\enkoc\\onedrive\\masa\u00FCst\u00FC\\proje2\\hepsidemo\\infrastructure\\demo.persistence\\migrations\\20250824160643_initnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F1D1E4-61A9-477F-9C79-7DA3AA22E492}|Infrastructure\\Demo.Persistence\\Demo.Persistence.csproj|solutionrelative:infrastructure\\demo.persistence\\migrations\\20250824160643_initnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CB02B5-4CB0-4A60-84B2-FB66E531199C}|Presentation\\Demo.Api\\Demo.Api.csproj|c:\\users\\enkoc\\onedrive\\masa\u00FCst\u00FC\\proje2\\hepsidemo\\presentation\\demo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32CB02B5-4CB0-4A60-84B2-FB66E531199C}|Presentation\\Demo.Api\\Demo.Api.csproj|solutionrelative:presentation\\demo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CB02B5-4CB0-4A60-84B2-FB66E531199C}|Presentation\\Demo.Api\\Demo.Api.csproj|c:\\users\\enkoc\\onedrive\\masa\u00FCst\u00FC\\proje2\\hepsidemo\\presentation\\demo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32CB02B5-4CB0-4A60-84B2-FB66E531199C}|Presentation\\Demo.Api\\Demo.Api.csproj|solutionrelative:presentation\\demo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250824160643_initNew.cs",
+              "DocumentMoniker": "C:\\Users\\enkoc\\OneDrive\\Masa\u00FCst\u00FC\\Proje2\\HepsiDemo\\Infrastructure\\Demo.Persistence\\Migrations\\20250824160643_initNew.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Demo.Persistence\\Migrations\\20250824160643_initNew.cs",
+              "ToolTip": "C:\\Users\\enkoc\\OneDrive\\Masa\u00FCst\u00FC\\Proje2\\HepsiDemo\\Infrastructure\\Demo.Persistence\\Migrations\\20250824160643_initNew.cs",
+              "RelativeToolTip": "Infrastructure\\Demo.Persistence\\Migrations\\20250824160643_initNew.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T16:07:06.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\enkoc\\OneDrive\\Masa\u00FCst\u00FC\\Proje2\\HepsiDemo\\Presentation\\Demo.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\Demo.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\enkoc\\OneDrive\\Masa\u00FCst\u00FC\\Proje2\\HepsiDemo\\Presentation\\Demo.Api\\appsettings.json",
+              "RelativeToolTip": "Presentation\\Demo.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-24T16:02:36.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enkoc\\OneDrive\\Masa\u00FCst\u00FC\\Proje2\\HepsiDemo\\Presentation\\Demo.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Demo.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\enkoc\\OneDrive\\Masa\u00FCst\u00FC\\Proje2\\HepsiDemo\\Presentation\\Demo.Api\\Program.cs",
+              "RelativeToolTip": "Presentation\\Demo.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T16:02:35.235Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
